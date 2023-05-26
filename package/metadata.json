@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "oleksiy.vt@gmail.com",
+                "Name": "Oleksii Kovtun"
+            }
+        ],
+        "Category": "Hardware",
+        "Description": "Color selection for generic Bluetooth lights. Configurable in the source code.",
+        "Icon": "brightness-low",
+        "Id": "com.alexvt.btlightswidget",
+        "License": "MIT",
+        "Name": "BT Lights Widget",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.1",
+        "Website": "https://github.com/alex-vt/BT-Lights-Widget-KDE"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
